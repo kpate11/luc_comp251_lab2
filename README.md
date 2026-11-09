@@ -63,7 +63,7 @@ Once you complete both items above, submit the link to your repository for lab 2
 5. One **SECTION** <ins>has</ins> one **COURSE_SECTION**, and each **COURSE_SECTION** <ins>belongs</ins> to one and only one **SECTION**.
 6. One **PROFESSOR** <ins> teaches </ins> zero to many **SECTION** records, and each **SECTION** is <ins>taught</ins> by one and only one **PROFESSOR**.
 
-![alt text]([https://instructorc.github.io/site/home/images/school_ERD.PNG](https://github.com/kpate11/luc_comp251_lab2/blob/main/koonal_patel_lab2_diagram.png))
+![alt text](koonal_patel_lab2_diagram.png)
 
 
 
