@@ -55,13 +55,16 @@ Once you complete both items above, submit the link to your repository for lab 2
 - [Draw.io Web-based diagramming tool](https://app.diagrams.net/)
 - [Creating Entity Relationship Diagrams using Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)
 
-## My Assignment
+## My Assignment - Koonal
 1. One **STUDENT** takes one to many **ENROLL** records, and each **ENROLL** belongs to one and only one **STUDENT**.
 2. One **COURSE** has one to many **ENROLL** records, and each **ENROLL** belongs to one and only one **COURSE**.
 3. One **INSTRUCTOR** <ins>teaches</ins> one to many **COURSE**, and each **COURSE** is <ins>taught</ins> by one and only one **INSTRUCTOR**.
 4. One **COURSE** <ins>has</ins> one to many **COURSE_SECTION**, and each **COURSE_SECTION** <ins>belongs</ins> to one and only one **COURSE**.
 5. One **SECTION** <ins>has</ins> one **COURSE_SECTION**, and each **COURSE_SECTION** <ins>belongs</ins> to one and only one **SECTION**.
 6. One **PROFESSOR** <ins> teaches </ins> zero to many **SECTION** records, and each **SECTION** is <ins>taught</ins> by one and only one **PROFESSOR**.
+
+![alt text]([https://instructorc.github.io/site/home/images/school_ERD.PNG](https://github.com/kpate11/luc_comp251_lab2/blob/main/koonal_patel_lab2_diagram.png))
+
 
 
 
